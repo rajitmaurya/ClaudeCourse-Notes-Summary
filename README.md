@@ -76,8 +76,7 @@ This repo is my attempt to bridge that gap.
 ---
 
 ## 🤝 Connect With Me  
-- GitHub: [Your GitHub Link]  
-- LinkedIn: [Your LinkedIn Link]  
+- LinkedIn: [https://www.linkedin.com/in/rajitmaurya/]  
 
 ---
 
