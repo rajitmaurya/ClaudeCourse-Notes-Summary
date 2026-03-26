@@ -1,56 +1,63 @@
-# 🚀 Mastering AI with Claude  
+# 🚀 Claude AI Course Notes & Summary  
 
 ## 📌 About This Repository  
-This repository documents my complete learning journey with **Anthropic Claude AI** through multiple official courses.  
+This repository contains my structured notes and learnings from multiple **Anthropic Claude AI courses**.  
 
-Instead of just consuming content, I structured my learnings, notes, and insights in a way that can help developers understand and build with AI effectively.  
+Instead of just completing courses, I focused on understanding concepts deeply and documenting them in a way that can help developers build real-world AI applications.  
 
 ---
 
-## 🎯 Courses Completed  
+## 🎯 Courses Covered  
+
+### 🧠 Core Learning  
 - Claude 101  
 - Claude Code in Action  
 - Introduction to Claude Cowork  
-- AI Fluency: Framework & Foundations  
+
+### ⚙️ Development & API  
 - Building with the Claude API  
-- Introduction to Model Context Protocol (MCP)  
-- Model Context Protocol: Advanced Topics  
-- Introduction to Agent Skills  
-- Introduction to Subagents  
 - Claude with Amazon Bedrock  
 - Claude with Google Cloud Vertex AI  
-- AI Fluency (Students, Educators, Nonprofits)  
+
+### 🔗 Advanced Concepts  
+- Introduction to Model Context Protocol (MCP)  
+- MCP: Advanced Topics  
+- Introduction to Agent Skills  
+- Introduction to Subagents  
+
+### 🌍 AI Fluency  
+- AI Fluency: Framework & Foundations  
+- AI Fluency for Students  
+- AI Fluency for Educators  
+- AI Fluency for Nonprofits  
 - Teaching AI Fluency  
 
 ---
 
 ## 🧠 Key Learnings  
 
-### 🔹 AI Fundamentals  
-- Understanding LLMs and how they work  
-- Real-world applications of AI  
-
 ### 🔹 Prompt Engineering  
 - Writing effective prompts  
-- Structuring instructions for better outputs  
-- Iterative prompting techniques  
+- Structuring instructions  
+- Iterative refinement  
 
 ### 🔹 AI Development  
-- Building with Claude API  
-- Integrating AI into applications  
+- API integration  
 - Workflow automation  
+- Building AI-powered apps  
 
 ### 🔹 Model Context Protocol (MCP)  
-- Tools, resources, and prompts  
-- Connecting AI with external systems  
-- Advanced MCP architecture  
+- Tools, resources, prompts  
+- External integrations  
+- Advanced architectures  
 
 ### 🔹 AI Fluency  
 - Ethical AI usage  
-- Responsible AI collaboration  
-- Productivity with AI  
+- Responsible collaboration  
+- Productivity enhancement  
 
 ---
+
 
 ---
 
@@ -58,34 +65,37 @@ Instead of just consuming content, I structured my learnings, notes, and insight
 Most people *use* AI.  
 Very few understand how to *build with it*.  
 
-This repo is my attempt to bridge that gap.  
+This repo is my effort to bridge that gap 🚀  
 
 ---
 
 ## 🛠️ Who Is This For?  
-- Developers (especially MERN)  
-- Beginners exploring AI  
-- Anyone who wants to build with AI  
+- Developers (MERN / Web Dev)  
+- AI beginners  
+- Anyone exploring AI development  
 
 ---
 
 ## 📚 Course Links  
-- Claude full course with certificate → [https://anthropic.skilljar.com/]  
+(Add your course links here)
 
+- Claude 101 → [Link]  
+- Claude Code in Action → [Link]  
 
 ---
 
 ## 🤝 Connect With Me  
-- LinkedIn: [https://www.linkedin.com/in/rajitmaurya/]  
+- GitHub: https://github.com/rajitmaurya  
+- LinkedIn: [Add your link]  
 
 ---
 
 ## ⭐ Support  
-If this repository helped you, consider giving it a ⭐  
+If you find this helpful, consider giving it a ⭐  
 
 ---
 
-## 🚀 Future Improvements  
+## 🚀 Future Plans  
 - Add real-world AI projects  
-- More prompt examples  
-- Mini AI tools using Claude API  
+- Share reusable prompt templates  
+- Build mini tools using Claude API  
