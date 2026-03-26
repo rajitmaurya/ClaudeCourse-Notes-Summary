@@ -84,9 +84,8 @@ This repo is my effort to bridge that gap 🚀
 
 ---
 
-## 🤝 Connect With Me  
-- GitHub: https://github.com/rajitmaurya  
-- LinkedIn: [Add your link]  
+## 🤝 Connect With Me   
+- LinkedIn: [https://www.linkedin.com/in/rajitmaurya/]  
 
 ---
 
